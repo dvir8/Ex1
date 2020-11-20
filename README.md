@@ -1,3 +1,6 @@
+Ex1 - Dvir Hakmon
+--------
+
 In Ex1 we were required to work with an unintentionally weighted graph, and were required to exercise three classes.
 The first was to implement the node_info class as an internal class.
 Within this class are the properties of the nodes.
